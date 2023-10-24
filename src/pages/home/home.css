@@ -1,0 +1,14 @@
+.productCont {
+  padding: 0.5rem;
+  background-color: lightseagreen;
+  margin: 0.1rem;
+}
+
+.productImg {
+  width: 25rem;
+  height: 25rem;
+}
+
+.productInfo {
+  margin-left: 2rem;
+}
